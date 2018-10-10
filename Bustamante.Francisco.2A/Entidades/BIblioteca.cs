@@ -22,7 +22,7 @@ namespace Entidades
         private List<Libro> _libros;
         #endregion
 
-        #region Properties//Los get son diferentes para ver cual funciona y cual no
+        #region Properties
         public double PrecioDeManuales
         {
             get
@@ -111,12 +111,12 @@ namespace Entidades
             {
                 if (item is Manual)
                 {
-                    sb.AppendLine((string)item);
+                    sb.AppendLine(item.ToString());
                 }
 
                 if (item is Novela)
                 {
-                    sb.AppendLine((string)item);
+                    sb.AppendLine(item.ToString());
                 }
             }
 
@@ -163,12 +163,17 @@ namespace Entidades
 
         public static Biblioteca operator +(Biblioteca estante, Libro lib)
         {
-            if (estante._capacidad > estante._libros.Count)
+            if (estante._capacidad >= estante._libros.Count)
             {
                 if (estante != lib)
                 {
                     estante._libros.Add(lib);
-                    Console.WriteLine("El libro ya esta en la biblioteca!!!");
+                    Console.WriteLine("Libro agregado a la biblioteca!!!");
+                }
+
+                else
+                {
+                    Console.WriteLine("El libro ya estaba en la biblioteca");
                 }
             }
 

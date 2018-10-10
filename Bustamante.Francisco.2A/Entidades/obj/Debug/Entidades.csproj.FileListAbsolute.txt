@@ -4,3 +4,9 @@ C:\Users\Franas\Desktop\PP Lab2\Bustamante.Francisco.2A\Entidades\obj\Debug\Enti
 C:\Users\Franas\Desktop\PP Lab2\Bustamante.Francisco.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Franas\Desktop\PP Lab2\Bustamante.Francisco.2A\Entidades\obj\Debug\Entidades.dll
 C:\Users\Franas\Desktop\PP Lab2\Bustamante.Francisco.2A\Entidades\obj\Debug\Entidades.pdb
+D:\##Bustamante\PP_Laboratorio_2\Bustamante.Francisco.2A\Entidades\bin\Debug\Entidades.dll
+D:\##Bustamante\PP_Laboratorio_2\Bustamante.Francisco.2A\Entidades\bin\Debug\Entidades.pdb
+D:\##Bustamante\PP_Laboratorio_2\Bustamante.Francisco.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\##Bustamante\PP_Laboratorio_2\Bustamante.Francisco.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\##Bustamante\PP_Laboratorio_2\Bustamante.Francisco.2A\Entidades\obj\Debug\Entidades.dll
+D:\##Bustamante\PP_Laboratorio_2\Bustamante.Francisco.2A\Entidades\obj\Debug\Entidades.pdb

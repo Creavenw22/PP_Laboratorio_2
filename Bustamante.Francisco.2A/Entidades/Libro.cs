@@ -33,7 +33,7 @@ namespace Entidades
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendFormat("Titulo: {0}\nAutor: {1}\nCantidad de Paginas: {2}\nPrecio: {3}",lib._titulo,lib._autor,lib._cantDePaginas,lib._precio);
+            sb.AppendFormat("Titulo: {0}\nAutor: {1}\nCantidad de Paginas: {2}\nPrecio: {3}",lib._titulo,lib._autor.ToString(),lib._cantDePaginas,lib._precio);
 
             return sb.ToString();
         }

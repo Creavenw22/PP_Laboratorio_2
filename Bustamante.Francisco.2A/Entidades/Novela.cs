@@ -27,7 +27,7 @@ namespace Entidades
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine((string)this);
-            sb.AppendFormat("Novela de: {0}", this.genero);
+            sb.AppendFormat("Novela de: {0}\n", this.genero);
 
             return sb.ToString();
         }
@@ -73,6 +73,11 @@ namespace Entidades
         public override int GetHashCode()
         {
             return base.GetHashCode();
+        }
+
+        public override string ToString()
+        {
+            return this.Mostrar();
         }
         #endregion
     }

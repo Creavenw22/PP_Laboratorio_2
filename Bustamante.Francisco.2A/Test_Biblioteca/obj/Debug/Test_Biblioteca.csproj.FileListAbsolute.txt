@@ -8,3 +8,13 @@ C:\Users\Franas\Desktop\PP Lab2\Bustamante.Francisco.2A\Test_Biblioteca\obj\Debu
 C:\Users\Franas\Desktop\PP Lab2\Bustamante.Francisco.2A\Test_Biblioteca\obj\Debug\Test_Biblioteca.csproj.CopyComplete
 C:\Users\Franas\Desktop\PP Lab2\Bustamante.Francisco.2A\Test_Biblioteca\obj\Debug\Test_Biblioteca.exe
 C:\Users\Franas\Desktop\PP Lab2\Bustamante.Francisco.2A\Test_Biblioteca\obj\Debug\Test_Biblioteca.pdb
+D:\##Bustamante\PP_Laboratorio_2\Bustamante.Francisco.2A\Test_Biblioteca\bin\Debug\Test_Biblioteca.exe.config
+D:\##Bustamante\PP_Laboratorio_2\Bustamante.Francisco.2A\Test_Biblioteca\bin\Debug\Test_Biblioteca.exe
+D:\##Bustamante\PP_Laboratorio_2\Bustamante.Francisco.2A\Test_Biblioteca\bin\Debug\Test_Biblioteca.pdb
+D:\##Bustamante\PP_Laboratorio_2\Bustamante.Francisco.2A\Test_Biblioteca\bin\Debug\Entidades.dll
+D:\##Bustamante\PP_Laboratorio_2\Bustamante.Francisco.2A\Test_Biblioteca\bin\Debug\Entidades.pdb
+D:\##Bustamante\PP_Laboratorio_2\Bustamante.Francisco.2A\Test_Biblioteca\obj\Debug\Test_Biblioteca.csprojAssemblyReference.cache
+D:\##Bustamante\PP_Laboratorio_2\Bustamante.Francisco.2A\Test_Biblioteca\obj\Debug\Test_Biblioteca.csproj.CoreCompileInputs.cache
+D:\##Bustamante\PP_Laboratorio_2\Bustamante.Francisco.2A\Test_Biblioteca\obj\Debug\Test_Biblioteca.csproj.CopyComplete
+D:\##Bustamante\PP_Laboratorio_2\Bustamante.Francisco.2A\Test_Biblioteca\obj\Debug\Test_Biblioteca.exe
+D:\##Bustamante\PP_Laboratorio_2\Bustamante.Francisco.2A\Test_Biblioteca\obj\Debug\Test_Biblioteca.pdb

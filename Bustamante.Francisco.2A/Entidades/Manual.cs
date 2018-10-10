@@ -28,7 +28,7 @@ namespace Entidades
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine((string)this);
-            sb.AppendFormat("Manual de: {0}", this.tipo);
+            sb.AppendFormat("Manual de: {0}\n", this.tipo);
 
             return sb.ToString();
         }
@@ -75,6 +75,13 @@ namespace Entidades
         {
             return base.GetHashCode();
         }
+
+        public override string ToString()
+        {
+            return this.Mostrar();
+        }
         #endregion
+
+
     }
 }

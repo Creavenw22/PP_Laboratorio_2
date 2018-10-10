@@ -41,7 +41,7 @@ namespace Entidades
 
         public static implicit operator string(Autor escritor)
         {
-            return string.Format("{0} {1}",escritor._nombre,escritor._apellido);
+            return string.Format("{0} {1}", escritor._nombre, escritor._apellido);
         }
         #endregion
 
@@ -54,6 +54,11 @@ namespace Entidades
         public override int GetHashCode()
         {
             return base.GetHashCode();
+        }
+
+        public override string ToString()
+        {
+            return string.Format("{0} {1}", this._nombre, this._apellido);
         }
         #endregion
 
