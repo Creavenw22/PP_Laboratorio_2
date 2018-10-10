@@ -1,0 +1,10 @@
+C:\Users\Franas\Desktop\PP Lab2\Bustamante.Francisco.2A\Test_Biblioteca\bin\Debug\Test_Biblioteca.exe.config
+C:\Users\Franas\Desktop\PP Lab2\Bustamante.Francisco.2A\Test_Biblioteca\bin\Debug\Test_Biblioteca.exe
+C:\Users\Franas\Desktop\PP Lab2\Bustamante.Francisco.2A\Test_Biblioteca\bin\Debug\Test_Biblioteca.pdb
+C:\Users\Franas\Desktop\PP Lab2\Bustamante.Francisco.2A\Test_Biblioteca\bin\Debug\Entidades.dll
+C:\Users\Franas\Desktop\PP Lab2\Bustamante.Francisco.2A\Test_Biblioteca\bin\Debug\Entidades.pdb
+C:\Users\Franas\Desktop\PP Lab2\Bustamante.Francisco.2A\Test_Biblioteca\obj\Debug\Test_Biblioteca.csprojAssemblyReference.cache
+C:\Users\Franas\Desktop\PP Lab2\Bustamante.Francisco.2A\Test_Biblioteca\obj\Debug\Test_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Franas\Desktop\PP Lab2\Bustamante.Francisco.2A\Test_Biblioteca\obj\Debug\Test_Biblioteca.csproj.CopyComplete
+C:\Users\Franas\Desktop\PP Lab2\Bustamante.Francisco.2A\Test_Biblioteca\obj\Debug\Test_Biblioteca.exe
+C:\Users\Franas\Desktop\PP Lab2\Bustamante.Francisco.2A\Test_Biblioteca\obj\Debug\Test_Biblioteca.pdb
